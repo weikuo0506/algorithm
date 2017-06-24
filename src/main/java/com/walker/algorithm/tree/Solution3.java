@@ -1,4 +1,4 @@
-package com.walker.algorithm.invert_binary_tree;
+package com.walker.algorithm.tree;
 
 import java.util.LinkedList;
 import java.util.Queue;
